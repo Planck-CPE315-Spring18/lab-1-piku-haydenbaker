@@ -1,5 +1,14 @@
 # CPE 315 Lab 1 -- Piku
 
+Name:
+    -Hayden Baker
+Status:
+    -Complete
+Instructions:
+    -`gcc -o piku piku.s'
+    -`./piku`
+
+
 ## Things to include in your README
 
 * Your name. Indicate if you go by a nickname.
